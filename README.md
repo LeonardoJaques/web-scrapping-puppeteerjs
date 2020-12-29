@@ -1,6 +1,7 @@
 # web-scrapping-puppeteerjs
-
 scrapping data in others sites
+
+just code in terminal: "npm run start"
 
 ## Study Case
 
